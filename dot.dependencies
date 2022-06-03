@@ -6,13 +6,11 @@
   {
     "repository": "vendor_xiaomi_miatoll",
     "target_path": "vendor/xiaomi/miatoll",
-    "branch": "twelve",
-    "remote": "pixel-devices-blobs"
+    "branch": "twelve"
   },
   {
     "repository": "vendor_xiaomi_miatoll-gcam",
     "target_path": "vendor/xiaomi/miatoll-gcam",
-    "branch": "twelve",
-    "remote": "pixel-devices-blobs"
+    "branch": "twelve"
   }
 ]
