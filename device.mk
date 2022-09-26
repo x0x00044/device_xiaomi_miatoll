@@ -268,14 +268,14 @@ PRODUCT_ENFORCE_RRO_TARGETS := *
 
 PRODUCT_PACKAGES += \
     CarrierConfigResCommon \
-    SM6250Frameworks \
-    SM6250SystemUI \
+    MiatollFrameworks \
+    MiatollSystemUI \
     TelephonyResCommon \
     WifiOverlay
 
 PRODUCT_PACKAGES += \
-    SM6250LineageDialer \
-    SM6250LineageSDK
+    MiatollLineageDialer \
+    MiatollLineageSDK
 
 # Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true

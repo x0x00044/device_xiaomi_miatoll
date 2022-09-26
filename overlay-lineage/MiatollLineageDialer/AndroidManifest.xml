@@ -4,7 +4,7 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.dialer.xiaomi_sm6250">
+    package="com.android.dialer.miatoll">
 
     <overlay
         android:isStatic="true"
